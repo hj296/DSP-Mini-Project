@@ -2,7 +2,7 @@
 Using MATLAB to Measure the Diameter of an Object within an Image.
 
 Summary: -
-Measuring objects within an image or frame can be an important capability for many applications where computer vision is required instead of making physical measurements. This application note will cover a basic step-by-step algorithm for isolating a desired object and measuring its diameter.
+Measuring objects within an image or frame can be an important capability for many applications where computer vision is required instead of making physical measurements.
 
 Reference:- <http://www.mathworks.com/videos/image-processing-made-easy-81718.html>
 
